@@ -1,2 +1,20 @@
-# AI-Network Intrusion Detection System [AI_NIDS]
-Building a network intrusion detection system that combines network traffic analysis, SOC practices, and AI-driven threat detection to identify suspicious activities and potential attacks.
+TRAWIQ Security
+
+Think Beyond Traffic.
+
+AI-Powered Network Intrusion Detection & Threat Intelligence System
+
+TRAWIQ Security is an intelligent cybersecurity project designed to monitor, analyze, and detect suspicious network activities using a combination of traditional intrusion detection techniques, machine learning, and AI-powered security analysis.
+
+The project aims to help security analysts identify potential network threats, detect abnormal traffic patterns, classify suspicious activities, and gain meaningful insights into security incidents.
+
+Core Objectives
+
+- Network traffic monitoring and analysis.
+- Rule-based intrusion detection.
+- Machine learning-based anomaly detection.
+- Intelligent attack classification.
+- Behavioral analysis and threat correlation.
+- AI-assisted security investigation and reporting.
+
+Project Status: Under Development.
