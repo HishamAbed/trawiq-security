@@ -1,0 +1,112 @@
+{
+    "model": "TRAWIQ Security V2",
+    "test_samples": 564745,
+    "accuracy": 0.8277257877449115,
+    "macro_f1": 0.188440649861336,
+    "weighted_f1": 0.7875082865131373,
+    "classification_report": {
+        "BENIGN": {
+            "precision": 0.9013710993521586,
+            "recall": 0.9625192255645549,
+            "f1-score": 0.9309421277600963,
+            "support": 454473.0
+        },
+        "Bot": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 393.0
+        },
+        "DDoS": {
+            "precision": 0.4084095122418973,
+            "recall": 0.9980862365255428,
+            "f1-score": 0.5796361821810924,
+            "support": 25604.0
+        },
+        "DoS GoldenEye": {
+            "precision": 0.7109106529209622,
+            "recall": 0.8037882467217096,
+            "f1-score": 0.7545019375427399,
+            "support": 2059.0
+        },
+        "DoS Hulk": {
+            "precision": 0.9529972752043597,
+            "recall": 0.06194376798760239,
+            "f1-score": 0.11632644576560096,
+            "support": 45170.0
+        },
+        "DoS Slowhttptest": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 1100.0
+        },
+        "DoS slowloris": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 1159.0
+        },
+        "FTP-Patator": {
+            "precision": 0.0004312575470070726,
+            "recall": 0.0031486146095717885,
+            "f1-score": 0.0007586102260658474,
+            "support": 1588.0
+        },
+        "Heartbleed": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 2.0
+        },
+        "Infiltration": {
+            "precision": 1.0,
+            "recall": 0.2857142857142857,
+            "f1-score": 0.4444444444444444,
+            "support": 7.0
+        },
+        "PortScan": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 31576.0
+        },
+        "SSH-Patator": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 1179.0
+        },
+        "Web Attack - Brute Force": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 301.0
+        },
+        "Web Attack - SQL Injection": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 4.0
+        },
+        "Web Attack - XSS": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 130.0
+        },
+        "accuracy": 0.8277257877449115,
+        "macro avg": {
+            "precision": 0.264941319817759,
+            "recall": 0.20768002514155118,
+            "f1-score": 0.188440649861336,
+            "support": 564745.0
+        },
+        "weighted avg": {
+            "precision": 0.8227148209893757,
+            "recall": 0.8277257877449115,
+            "f1-score": 0.7875082865131373,
+            "support": 564745.0
+        }
+    }
+}
